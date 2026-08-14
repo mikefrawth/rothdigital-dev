@@ -1,6 +1,6 @@
 export const site = {
   name: "Michael Roth",
-  title: "Forward Deployed Engineer",
+  title: "Software Engineer",
   email: "michael@rothdigital.dev",
   github: "https://github.com/mikefrawth",
   linkedin: "https://www.linkedin.com/in/michael-f-roth/",

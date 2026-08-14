@@ -16,6 +16,14 @@ export default function About() {
         solutions — that's the part of the job I never get tired of, and
         after 11+ years it's still what gets me out of bed.
       </p>
+      <p className="mt-4 max-w-2xl leading-relaxed text-muted">
+        That's also the direction I want to keep growing in: less time
+        removed from the problem, more time embedded with the team or
+        customer who owns it. It's close to what I've already been doing at
+        MorseLife — working directly with executives and business
+        stakeholders to turn ambiguous goals into shipped software — just
+        with the scope widened.
+      </p>
 
       <div className="mt-12 grid gap-10 sm:grid-cols-2">
         <div>

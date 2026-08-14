@@ -23,7 +23,9 @@ export default function Home() {
             Software engineer with 11+ years of experience and an AWS
             Certified Solutions Architect. I design, build, and ship
             business-critical software — and I put AI tooling to work as a
-            force multiplier across the whole process.
+            force multiplier across the whole process. Lately I'm drawn to
+            work that puts me directly in front of the customer — solving
+            problems in the room, not just in the backlog.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <Link
