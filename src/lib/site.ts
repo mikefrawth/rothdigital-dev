@@ -1,8 +1,7 @@
 export const site = {
   name: "Michael Roth",
   title: "Forward Deployed Engineer",
-  // TODO: switch to michael@rothdigital.dev once the mailbox is verified working
-  email: "mfroth691@gmail.com",
+  email: "michael@rothdigital.dev",
   github: "https://github.com/mikefrawth",
   linkedin: "https://www.linkedin.com/in/michael-f-roth/",
   nav: [
